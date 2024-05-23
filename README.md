@@ -4,5 +4,7 @@
 
 # how to crot
 - clone
+- copy token "eyJXXXX" from inspect element
 - npm install
 - node index.js
+- insert token
